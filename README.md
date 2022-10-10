@@ -9,7 +9,7 @@ Team Project for CSCI 665
  - Ruchitra
  - Razmin Nazar
 
-## License
+## Documents
 [Meeting Notes](https://docs.google.com/document/d/1SxCAwAQVauz_IDS_ZJfAKRLEkhT2TE7HiHbVT3slWrc/edit?usp=sharing)
 
 [Idea Proposal](https://docs.google.com/document/d/1nY1g_JXys9pp3G5ZurF6qF3lPJb3BTbwuGy9KRM-RNQ/edit?usp=sharing)
