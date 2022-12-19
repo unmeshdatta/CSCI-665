@@ -1,0 +1,16 @@
+{
+    "discord_token": "",
+    "prefix": "!",
+    "debug_guilds": [
+        123,
+        1234
+    ],
+    "owner_id": ,
+    "raffle_channel_name": "raffles",                                 
+    "daily_bonus_delay": 86400,
+    "daily_bonus_amount": 10,
+    "raffle_ongoing":"https://media.tenor.com/wl_HyiAmtdkAAAAd/spin-lottery.gif",
+    "raffle_ended": "https://c.tenor.com/KgIC_rUjd08AAAAC/scrooge-donald-duck.gif",
+    "raffle_ended_no_winners": null,
+    "db_root": "."
+}
